@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Srinivas Gopalakrishnan",
+  "author": "5r1n1",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
