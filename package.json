@@ -4,7 +4,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/5r1n1/notes-node.git"
-  }
+  },
   "description": "Learning Node.js from online course",
   "main": "app.js",
   "scripts": {
